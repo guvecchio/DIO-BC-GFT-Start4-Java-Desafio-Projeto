@@ -28,8 +28,7 @@
 
 # Ciclo de vida
 
-![Ciclo de Vida](/images/ciclo-de-vida.jpg)
-*representação do ciclo de vida no git*
+*Representação do ciclo de vida no git*
 
 * untracked - arquivo criado com o git init do qual o git ainda não tem conhecimento, que depois de add vai direto para staged.
 * tracked (arquivos que o git conhece)
