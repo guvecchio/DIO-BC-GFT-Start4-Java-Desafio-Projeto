@@ -18,6 +18,9 @@ git --list
 -r
 -a
 git config --list
+git remote origin
+git remote -v
+
 
 
 # Ciclo de vida
